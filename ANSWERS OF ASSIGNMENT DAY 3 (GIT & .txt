@@ -1,0 +1,39 @@
+ANSWERS OF ASSIGNMENT DAY 3 (GIT & GIT HUB)
+
+1.) Git is a distributed version control system. 
+    It is very much helpful for developers to work on a project in a team because of following reasons:
+    a.) no issue of networking 
+    b.) it provide a collabrative environment for team members 
+
+2.) Version control system is a process by which we can update particular software systems over time.
+    basically it is used for doing following jobs in a project :
+   a.) can update the previous version to a new version
+   b.) can add new features to the previous version
+   
+3.) Git hub is a online software development plateform.
+    it is used for:
+   a.) creating new softwares
+   b.) developing softwares 
+   c.) collabrating with team to work on a project
+   d.) submiting assignments which are useful for developing skills and resume 
+and much more uses are there of github.
+
+4.) Some popular git hosting services are Github , Gitlab , Bitbucket , Gitbit , etc.
+
+5.) Types of version control systems are:
+  a.) Centralized version control system (CVCS)
+  b.) Distributed version control system (DVCS)
+
+6.) Benefits of using git:
+  a.) allow you to work in a collabrative environment from where you can work on a project like a team
+  b.) each member of team get a copy of project by pulling from repository which reduce the risk of networking problems (like if your system corrupt it will have no effect on the original repository and vice versa)
+  c.) when we have done our work on project then we just have to simply push the local repo. to central and from there each member of team can pull the new updated repo.
+  d.) the work we have done on the project will be visible by our name (means everyone eill get information that who have worked on that part of the project)
+
+7.) Git repository is a central storage which keep tracing about the updates in the files(of project) .
+
+8.) we can initalize a repository by following these steps:
+  a.) if we are not signup first signup else signin to the github
+  b.) on the top rightmost corner there is a sign '+' , click on it
+  c.) click on new repository and name it
+  d.) and your repository is initalized.
